@@ -3,5 +3,7 @@
 
 Author & Attribution: 
 
-* Andrew Dresner, Derelict Robot Industries, All Rights Reserved - 2020
+* Andrew Dresner, Derelict Robot Industries
 * Hoyt St Electric Skate
+
+All Rights Reserved - 2020
